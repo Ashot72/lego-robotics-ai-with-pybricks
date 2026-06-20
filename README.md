@@ -1,4 +1,4 @@
-# LEGO Robotics with AI: Building Smart Robots with Pybricks and LEGO BOOST
+## LEGO Robotics with AI: Building Smart Robots with Pybricks and LEGO BOOST
 
 🤖 This project is a LEGO robotics system built mainly with Pybricks running
 MicroPython on the LEGO hub, combined with a Python-based host application that
@@ -35,12 +35,16 @@ BOOST hardware using two motors, a light/color sensor, hub LEDs, and additional
 interface ports, combined with Pybricks and a Python host system, extended with
 AI so the robot can be controlled and reprogrammed using simple text prompts.
 
-## Links & Resources
+### Links & Resources
 
-- [LEGO BOOST](https://www.lego.com/en-us/themes/boost/videos)
-- [LEGO SPIKE](https://spike.legoeducation.com/)
-- [Pybricks](https://pybricks.com/)
-- [Pybricks Code](https://code.pybricks.com/)
+<small>
+
+[LEGO BOOST](https://www.lego.com/en-us/themes/boost/videos) ·
+[LEGO SPIKE](https://spike.legoeducation.com/) ·
+[Pybricks](https://pybricks.com/) ·
+[Pybricks Code](https://code.pybricks.com/)
+
+</small>
 
 ## Clone and Run
 
