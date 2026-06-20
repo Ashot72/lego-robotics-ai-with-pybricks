@@ -39,10 +39,10 @@ AI so the robot can be controlled and reprogrammed using simple text prompts.
 
 <small>
 
-[LEGO BOOST](https://www.lego.com/en-us/themes/boost/videos) ·
-[LEGO SPIKE](https://spike.legoeducation.com/) ·
-[Pybricks](https://pybricks.com/) ·
-[Pybricks Code](https://code.pybricks.com/)
+- [LEGO BOOST](https://www.lego.com/en-us/themes/boost/videos)
+- [LEGO SPIKE](https://spike.legoeducation.com/)
+- [Pybricks](https://pybricks.com/)
+- [Pybricks Code](https://code.pybricks.com/)
 
 </small>
 
