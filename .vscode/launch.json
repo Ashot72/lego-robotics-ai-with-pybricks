@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Host (host.py)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/host.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/venv/Scripts/python.exe",
+      "args": ["-n", "Pybricks Hub", "--timeout", "60"],
+      "justMyCode": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Host-generated hub scripts (temporary)
+_generated/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+*.log
