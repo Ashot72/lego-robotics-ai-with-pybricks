@@ -23,6 +23,8 @@ into structured robot parameters. These updated values are then used to
 regenerate the MicroPython code and deploy it directly to the hub, allowing the
 robot to change behavior dynamically without manually rewriting code.
 
+🧩 The robot behavior is organized using the Python Strategy Pattern, allowing different actions to be selected and executed dynamically at runtime.
+
 📦 In the case of Pybricks, unlike LEGO BOOST, we do not need to keep a tablet or
 computer connected for the robot to run. Once the program is deployed, it is
 stored directly on the hub and can execute autonomously anywhere, making the
